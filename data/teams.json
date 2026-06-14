@@ -1,0 +1,10 @@
+[
+  {"id":"as-capodacqua","name":"AS Capodacqua","edition":2025,"coach":"F. Tiberi","colors":["#d4af37","#111111"],"logo":"assets/logos/logo-volpe.jpeg","players":["D. Trombettoni","N. Santi","A. Memolla","N. Tanaceto","L. Lini","A. Tamburini","S. Nappini","D. Fancelli","F. Tocchio"]},
+  {"id":"fc-amburgo","name":"FC Amburgo","edition":2025,"colors":["#16a8ef","#ffffff"],"players":["A. Picarella","A. Pescetelli","M. Caponnetto","N. Picchietti","D. Felici","R. Colella","L. Stoppini"]},
+  {"id":"belfiore-all-stars","name":"Belfiore All Stars","edition":2025,"colors":["#2aa84a","#27aee3"],"players":["L. Burganti","M. Angelucci","F. Cataluffi","N. Benedetti","A. Tugni","W. Mercuri","A. Agostini","G. Castellani","S. Benedetti","A. Spata","M. Angelucci","L. Trabalza","M. Mazzoli"]},
+  {"id":"ac-collecchie","name":"AC Collecchie","edition":2025,"colors":["#f2e900","#091cff"],"players":["N. Armillei","M. Gallinella","A. Met Hasani","R. Goga","L. Perticoni"]},
+  {"id":"predators","name":"Predators","edition":2025,"colors":["#c79b1b","#111111"],"players":["R. Shahini","Al. Carducci","An. Carducci","A. Rezzoug","D. Kica","F. Alili","F. Persechini","D. Carnevali","E. Moroncini"]},
+  {"id":"fc-infinity-parrucchieri","name":"FC New Infinity Parrucchieri","edition":2025,"colors":["#bfbfbf","#111111"],"players":["N. Sulejmani","F. Torino","J. D'Angelo","D. Villino","K. Torino","M. Di Somma","S. Grasso","M. Minnozzi","V. Renga","M. Lucante"]},
+  {"id":"valtopina","name":"Valtopina","edition":2025,"colors":["#8eb5bd","#f0e6cf"],"players":["D. Pica","M. Lampitelli","A. Giorgi","L. Bazzucchi","A. Ansuini","F. Giulioni","A. Rocca","F. Armillei","D. Seccafieno","G. Bazzucchi","D. Mascia"]},
+  {"id":"paradiso-delle-ciole","name":"Il Paradiso delle Ciole","edition":2025,"colors":["#5b5049","#e8e3d4"],"players":["L. Bastianini","G. Sorci","L. Fagotti","A. Fagotti","F. Ciambrusco","F. Piermarini","T. Baglioni","L. Ortolani"]}
+]
