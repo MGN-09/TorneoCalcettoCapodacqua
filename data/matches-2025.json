@@ -1,0 +1,106 @@
+[
+  {
+    "date": "14/07/2025",
+    "phase": "Girone 1",
+    "home": "fc-new-infinity-parrucchieri",
+    "away": "fc-amburgo",
+    "homeScore": 1,
+    "awayScore": 7
+  },
+  {
+    "date": "14/07/2025",
+    "phase": "Girone 1",
+    "home": "predators",
+    "away": "ac-collecchie",
+    "homeScore": 4,
+    "awayScore": 6
+  },
+  {
+    "date": "15/07/2025",
+    "phase": "Girone 2",
+    "home": "valtopina",
+    "away": "il-paradiso-delle-ciole",
+    "homeScore": 1,
+    "awayScore": 8
+  },
+  {
+    "date": "15/07/2025",
+    "phase": "Girone 2",
+    "home": "as-capodacqua",
+    "away": "belfiore-all-stars",
+    "homeScore": 1,
+    "awayScore": 2
+  },
+  {
+    "date": "16/07/2025",
+    "phase": "Girone 1",
+    "home": "ac-collecchie",
+    "away": "fc-new-infinity-parrucchieri",
+    "homeScore": 8,
+    "awayScore": 6
+  },
+  {
+    "date": "16/07/2025",
+    "phase": "Girone 1",
+    "home": "fc-amburgo",
+    "away": "predators",
+    "homeScore": 15,
+    "awayScore": 6
+  },
+  {
+    "date": "17/07/2025",
+    "phase": "Girone 2",
+    "home": "valtopina",
+    "away": "belfiore-all-stars",
+    "homeScore": 2,
+    "awayScore": 4
+  },
+  {
+    "date": "17/07/2025",
+    "phase": "Girone 2",
+    "home": "as-capodacqua",
+    "away": "il-paradiso-delle-ciole",
+    "homeScore": 6,
+    "awayScore": 12
+  },
+  {
+    "date": "18/07/2025",
+    "phase": "Girone 1",
+    "home": "predators",
+    "away": "fc-new-infinity-parrucchieri",
+    "homeScore": 1,
+    "awayScore": 6
+  },
+  {
+    "date": "18/07/2025",
+    "phase": "Girone 1",
+    "home": "ac-collecchie",
+    "away": "fc-amburgo",
+    "homeScore": 6,
+    "awayScore": 10
+  },
+  {
+    "date": "21/07/2025",
+    "phase": "Semifinale",
+    "home": "belfiore-all-stars",
+    "away": "ac-collecchie",
+    "homeScore": 9,
+    "awayScore": 4
+  },
+  {
+    "date": "21/07/2025",
+    "phase": "Semifinale",
+    "home": "fc-amburgo",
+    "away": "il-paradiso-delle-ciole",
+    "homeScore": 5,
+    "awayScore": 4
+  },
+  {
+    "date": "22/07/2025",
+    "phase": "Finale",
+    "home": "fc-amburgo",
+    "away": "belfiore-all-stars",
+    "homeScore": 7,
+    "awayScore": 4
+  }
+]
